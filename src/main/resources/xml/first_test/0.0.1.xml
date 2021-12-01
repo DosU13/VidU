@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="first_test">
+  <properties>
+    <VideoProperties width="240" height="240" fps="60.0" durationSeconds="10.0" />
+    <MusicProperties bpm="128.0" midiPaddingSec="0.0" audioPath="" />
+  </properties>
+  <media_layers />
+</project>
